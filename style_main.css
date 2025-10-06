@@ -1,15 +1,19 @@
 body {
     padding: 2px;
+    background-color: ;
 }
 
 header {
     display: flex;
+    align-items: center;
+    text-align:center;
+    justify-content:center;
     background-color: #F9F6ED;
+    color: #361C12;
     height: 80px;
-    justify-content: center;
     font-family: "Headland One", serif;
     font-size: 15px;
-    color: #361C12;
+    border-radius: 5px;
 }
 
 
